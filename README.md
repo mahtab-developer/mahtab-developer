@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm a Software Developer and Freelancer.<br><br>👉 Currently diving deep into MERN, Next JS, and building mobile applications.
+🚀 I'm a Software Developer and Freelancer.<br><br>👉 Currently diving deep into MERN Stack and Next JS. 
 
 
 ## 🌐 Socials:
